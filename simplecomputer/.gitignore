@@ -1,0 +1,11 @@
+.vscode
+console/*.o
+console/*.a
+mySimpleComputer/*.o
+mySimpleComputer/*.a
+myTerm/*.o
+myTerm/*.a
+myBigChars/*.o
+myBigChars/*.a
+.DS_Store
+bin/app
